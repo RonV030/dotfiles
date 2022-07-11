@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rv48@hotmail.de
+	name = Ronny Vater
